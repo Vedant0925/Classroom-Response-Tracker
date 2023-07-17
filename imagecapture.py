@@ -7,5 +7,5 @@ _, image = camera.read()
 # Alternatively, load an image file
 image = cv2.imread('classroom_image.jpg')
 
-# Release the camera if used
+
 camera.release()
